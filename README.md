@@ -61,11 +61,3 @@ latest project: "Mobile application built in React Native and hosted on Google F
 </p>
 
 ---
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-![Snake animation](https://github.com/Connorrmcd6/Connorrmcd6/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
