@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Connor%20McDonald&fontSize=65" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Hi%20there!&fontSize=65" />
 
 <!--
 **Connorrmcd6/Connorrmcd6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
