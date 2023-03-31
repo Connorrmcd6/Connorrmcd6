@@ -34,7 +34,9 @@ currently_learning:
     "Firebase"
   ]
   
-latest project: "Mobile application built in React Native and hosted on Google Firebase that uses graph theory to facilitate multi-party swaps for medical intern placements in South Africa, based off research conducted in this [paper](https://eprints.gla.ac.uk/25732/1/25732.pdf) "
+latest project: "Mobile application built in React Native and hosted on Google Firebase 
+  that uses graph theory to facilitate multi-party swaps for medical intern placements 
+  in South Africa."
 ```
   
 --- 
