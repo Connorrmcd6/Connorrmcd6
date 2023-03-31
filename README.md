@@ -64,9 +64,7 @@
 </p>
  -->
   
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-  
-[![My Skills](https://skillicons.dev/icons?i=py,js,react,firebase,tensorflow,vscode,linux,mysql,nginx,php,postgres,r,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,react,firebase,tensorflow,vscode,linux,mysql,nginx,php,postgres,r,html,css&perline=7)](https://skillicons.dev)
   
   </h2>
 
