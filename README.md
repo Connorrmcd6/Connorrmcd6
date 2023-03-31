@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Hi%20there!&fontSize=65" />
+## Slice <a id="slice">
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
 
 <!--
 **Connorrmcd6/Connorrmcd6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
