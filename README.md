@@ -1,15 +1,5 @@
 ## <a id="slice">
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hi%20there!&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20GitHub%20profile&descAlign=70.&descAlignY=44)
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/connor-mcdonald-a770131a1/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/> 
-    
-<a href="mailto: connormcd98@gmail.com@example.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-  </p>
   
   
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -51,8 +41,6 @@ latest project: "Mobile application built in React Native and hosted on Google F
 ```
   
 --- 
-
----  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
