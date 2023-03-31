@@ -2,7 +2,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hi%20there!&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20GitHub%20profile&descAlign=70.&descAlignY=44)
   
   
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;Me and my interests</h2>
 
 ```yaml
 name: Connor McDonald
@@ -42,7 +42,7 @@ latest project: "Mobile application built in React Native and hosted on Google F
   
 --- 
   
-<h2> 🚀 &nbsp;Some of the tools I am familiar with</h2>
+<h2> 🚀 &nbsp;My competencies</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
