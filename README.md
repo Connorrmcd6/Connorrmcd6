@@ -6,40 +6,41 @@
 
 ```yaml
   Configs = {
-  name: Connor McDonald
-  email: connormcd98@gmail.com
-  located_in: Cape Town, South Africa
-  current_job: Data Scientist
-  company: Luno
-  education:
-  [
-    "MIT Big Data Science (cum laude)",
-    "BEng Industrial & Systems Engineering",
-  ],
+  
+    name: Connor McDonald
+    email: connormcd98@gmail.com
+    located_in: Cape Town, South Africa
+    current_job: Data Scientist
+    company: Luno
+    education:
+    [
+      "MIT Big Data Science (cum laude)",
+      "BEng Industrial & Systems Engineering",
+    ],
 
-  fields_of_interests:
-  [
-    "Data Science",
-    "Machine Learning",
-    "App Devlopment",
-    "Blockchain",
-  ],
-  
-  technical_background:
-  [
-    "Associate Data Scientist - Luno (2022 - Current)",
-    "Software Engineer - OQLIS Software Corporation (2020 - 2022)",
-  ],
-  
-  currently_learning: 
-  [
-    "React Native",  
-    "Firebase"
-  ],
-  
-  latest project: "Mobile application built in React Native and hosted on Google Firebase 
-  that uses graph theory to facilitate multi-party swaps for medical intern placements 
-  in South Africa.",
+    fields_of_interests:
+    [
+      "Data Science",
+      "Machine Learning",
+      "App Devlopment",
+      "Blockchain",
+    ],
+
+    technical_background:
+    [
+      "Associate Data Scientist - Luno (2022 - Current)",
+      "Software Engineer - OQLIS Software Corporation (2020 - 2022)",
+    ],
+
+    currently_learning: 
+    [
+      "React Native",  
+      "Firebase"
+    ],
+
+    latest project: "Mobile application built in React Native and hosted on Google Firebase 
+    that uses graph theory to facilitate multi-party swaps for medical intern placements 
+    in South Africa.",
   
  }
 ```
