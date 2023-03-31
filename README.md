@@ -1,11 +1,20 @@
 ## <a id="slice">
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hi%20there!&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20GitHub%20profile&descAlign=70.&descAlignY=44)
+
+<h1 align="center">
+  Let's Connectt!💬
+</h1>
+
+<a href="https://www.linkedin.com/in/connor-mcdonald-a770131a1/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
   
   
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Connor McDonald
+email: connormcd98@gmail.com
 located_in: Cape Town, South Africa
 current_job: Data Scientist
 education:
