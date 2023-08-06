@@ -35,12 +35,11 @@
     currently_learning: 
     [
       "React Native",  
-      "Firebase"
+      "Firebase",
+      "TypeScript"
     ],
 
-    latest project: "Mobile application built in React Native and hosted on Google Firebase 
-    that uses graph theory to facilitate multi-party swaps for medical intern placements 
-    in South Africa.",
+    latest project: Custom fantasy league football game that allows users to add their own rules for mini-leagues and get stats from the FPL API
   
  }
 ```
