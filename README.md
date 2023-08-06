@@ -39,7 +39,10 @@
       "TypeScript"
     ],
 
-    latest project: Custom fantasy league football game that allows users to add their own rules for mini-leagues and get stats from the FPL API
+    latest project: Custom fantasy league football game that allows users
+    to add their own rules for mini-leagues and get stats from the FPL API.
+    Currently built in Python with Streamlit but looking to migrate to React
+    Native with TypeScript.
   
  }
 ```
