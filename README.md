@@ -34,25 +34,14 @@
 
     currently_learning: 
     [
-      "React Native",  
+      "Go",  
       "Firebase",
-      "TypeScript"
+      "Angular"
     ],
 
-    latest project: Custom fantasy league football game that allows users
-    to add their own rules for mini-leagues and get stats from the FPL API.
-    Currently built in Python with Streamlit but looking to migrate to React
-    Native with TypeScript.
+    latest project: An application that uses graph theory to pair up Intern doctors which would like to swap locations with each other. The app successfully helped a number doctors move to locations closer to friends and family in the 2023 allocation round. I would like to expand on this app so that it can be applied to all health care professions in South Africa that have a compulsory community service year. See the app [here](https://docswap.streamlit.app/)
   
  }
 ```
-  
---- 
-  
-<h2> 🚀 &nbsp;My competencies
-  
-[![My Skills](https://skillicons.dev/icons?i=py,js,react,firebase,tensorflow,vscode,linux,mysql,nginx,php,postgres,r,html,css&)](https://skillicons.dev)
-  
-  </h2>
 
 ---
