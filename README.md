@@ -43,7 +43,7 @@
 like to swap locations with each other. The app successfully helped a number doctors move to locations
 closer to friends and family in the 2023 allocation round. I would like to expand on this app so that
 it can be applied to all health care professions in South Africa that have a compulsory community
-service year. See the app [here](https://docswap.streamlit.app/)
+service year. See the app (here)[https://docswap.streamlit.app/]
   
  }
 ```
