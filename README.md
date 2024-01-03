@@ -14,7 +14,7 @@
     company: Luno
     education:
     [
-      "MIT Big Data Science (cum laude)",
+      "MIT Big Data Science (distinction)",
       "BEng Industrial & Systems Engineering",
     ],
 
