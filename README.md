@@ -9,7 +9,7 @@
   
     name: Connor McDonald
     email: connormcd98@gmail.com
-    located_in: Cape Town, South Africa
+    located_in: East London, South Africa
     current_job: Data Scientist
     company: Luno
     education:
