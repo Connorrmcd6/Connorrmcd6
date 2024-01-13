@@ -62,7 +62,8 @@
  
     latest_project: An application that uses graph theory to pair up Intern doctors which would
 like to swap locations with each other. The app successfully helped a number doctors move to locations
-closer to friends and family in the 2023 allocation round. The business logic of the app is built in Python, I am looking to rebuild in Go to make it more efficient.
+closer to friends and family in the 2023 allocation round. The business logic of the app
+is built in Python, I am looking to rebuild in Go to make it more efficient.
 
  }
 ```
