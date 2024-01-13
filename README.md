@@ -23,7 +23,7 @@
       "Data Science",
       "Machine Learning",
       "App Devlopment",
-      "Blockchain",
+      "Optimisation",
     ],
 
     technical_background:
@@ -34,17 +34,36 @@
 
     currently_learning: 
     [
-      "Go",  
-      "Firebase",
-      "Angular"
+      "languages":
+        [
+          "Go",
+          "TypeScript"
+        ],
+        frameworks:
+        [
+          "Angular",
+          "React",
+          "Vue"
+        ],
+        other:
+        [
+          "Firebase",
+          "Docker",
+          "GraphQL"
+        ]
     ],
-
-    latest project: An application that uses graph theory to pair up Intern doctors which would
+    proficiencies:
+    [
+      "Python",
+      "SQL",
+      "R",
+      "JavaScript"
+    ],
+ 
+    latest_project: An application that uses graph theory to pair up Intern doctors which would
 like to swap locations with each other. The app successfully helped a number doctors move to locations
-closer to friends and family in the 2023 allocation round. I would like to expand on this app so that
-it can be applied to all health care professions in South Africa that have a compulsory community
-service year. See the app here: https://docswap.streamlit.app/
-  
+closer to friends and family in the 2023 allocation round. The business logic of the app is built in Python, I am looking to rebuild in Go to make it more efficient.
+
  }
 ```
 
