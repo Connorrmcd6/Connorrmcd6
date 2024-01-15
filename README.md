@@ -2,7 +2,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hi%20%20there!&fontSize=70&desc=Welcome%20to%20my%20GitHub%20profile&fontAlign=30&descAlign=50&descAlignY=53&fontAlignY=30&animation=scaleIn)
   
 ```yaml
-  {
     "Configs": {
         "name": "Connor McDonald",
         "email": "connormcd98@gmail.com",
@@ -29,9 +28,12 @@
             "other": ["Firebase", "Docker", "GraphQL"]
         },
         "proficiencies": ["Python", "SQL", "R", "JavaScript"],
-        "latest_project": "An application that uses graph theory to pair up intern doctors who would like to swap locations with each other. The app successfully helped a number of doctors move to locations closer to friends and family in the 2023 allocation round. The business logic of the app is built in Python, and I am looking to rebuild it in Go to make it more efficient."
+        "latest_project": "An application that uses graph theory to pair up intern
+            doctors who would like to swap locations with each other. The app successfully
+            helped a number of doctors move to locations closer to friends and family in
+            the 2023 allocation round. The business logic of the app is built in Python,
+            and I am looking to rebuild it in Go to make it more efficient."
     }
-}
 ```
 
 ---
