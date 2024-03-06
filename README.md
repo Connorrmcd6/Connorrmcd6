@@ -19,7 +19,7 @@
         "Optimization"
     ],
     "technical_background": [
-          "Associate Data Engineer - Luno (2024 - current)",
+        "Associate Data Engineer - Luno (2024 - current)",
         "Associate Data Scientist - Luno (2022 - 2024)",
         "Software Engineer - OQLIS Software Corporation (2020 - 2022)"
     ],
