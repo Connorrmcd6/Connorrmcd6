@@ -6,7 +6,7 @@
     "name": "Connor McDonald",
     "email": "connormcd98@gmail.com",
     "located_in": "East London, South Africa",
-    "current_job": "Data Scientist",
+    "current_job": "Data Engineer",
     "company": "Luno",
     "education": [
         "MIT Big Data Science (distinction)",
@@ -19,7 +19,8 @@
         "Optimization"
     ],
     "technical_background": [
-        "Associate Data Scientist - Luno (2022 - Current)",
+          "Associate Data Engineer - Luno (2024 - current)",
+        "Associate Data Scientist - Luno (2022 - 2024)",
         "Software Engineer - OQLIS Software Corporation (2020 - 2022)"
     ],
     "currently_learning": {
